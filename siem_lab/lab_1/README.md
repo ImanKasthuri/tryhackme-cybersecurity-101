@@ -12,4 +12,7 @@ What I learned,
 
 <img src="https://github.com/ImanKasthuri/tryhackme-cybersecurity-101/blob/main/siem_lab/lab_1/screenshot/SIEM%20SCREENSHOT%201.png?raw=true">
 
+<img src="https://github.com/ImanKasthuri/tryhackme-cybersecurity-101/blob/main/siem_lab/lab_1/screenshot/SIEM%20SCREENSHOT%202.png?raw=true">
+
+
 
