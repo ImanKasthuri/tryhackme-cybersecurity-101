@@ -17,3 +17,11 @@
 - Delegation let you give limited permission without making someone an admin.
 - can use powershell to manage user quickly as example resetting passwords.
 - always test the changes by loggin in as the user.
+
+  <img src="https://github.com/ImanKasthuri/tryhackme-cybersecurity-101/blob/main/active_directory_lab/managing_users/screenshots/Screenshot%201.png?raw=true">
+
+<img src="https://github.com/ImanKasthuri/tryhackme-cybersecurity-101/blob/main/active_directory_lab/managing_users/screenshots/Screenshot%202.png?raw=true">
+
+    
+
+        
